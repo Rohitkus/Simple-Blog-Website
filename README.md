@@ -1,5 +1,5 @@
-﻿# Blog_management_Website
+﻿ Blog_Website_management
 
-This is the blog management website which is the first task of the bharat internship.
+This is the blog management website which is the second  task of the bharat internship.
 
-Link: https://blog-management-gpzb.onrender.com/
+
