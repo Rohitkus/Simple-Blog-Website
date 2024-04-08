@@ -1,0 +1,43 @@
+.textpre{
+    display:-webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+
+.card-img img{
+   width: 60%;
+   
+    object-fit: contain;
+}
+.user img{
+    width: 120px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+   .card-img img{
+    width: 100%;
+   }
+
+   .header{
+    line-height: 30px;
+    display: inline-block;
+   
+    justify-content: center;
+}
+
+.card-img-to{
+    width: 300px;
+}
+
+   .user img{
+    width: 80px;
+}
+  }
